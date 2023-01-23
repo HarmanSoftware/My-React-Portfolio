@@ -41,7 +41,10 @@ export default function Footer() {
 						<a className='hover:bg-mauve hover:text-black p-1 rounded-sm' rel="noopener noreferrer" href="https://gagromed.com" target="_blank">Gagromed.com</a>
 					</li>
 					<li>
-						<a className='hover:bg-mauve hover:text-black p-1 rounded-sm' rel="noopener noreferrer" href="https://itsprojectx.com" target="_blank">Itsprojectx.com</a>
+						<a className='hover:bg-mauve hover:text-black p-1 rounded-sm' rel="noopener noreferrer" href="https://himarketing.agency/" target="_blank">Himarketing.agency</a>
+					</li>
+					<li>
+						<a className='hover:bg-mauve hover:text-black p-1 rounded-sm' rel="noopener noreferrer" href="https://strong-zeal.com/" target="_blank">strong-zeal.com</a>
 					</li>
 				</ul>
 			</div>
